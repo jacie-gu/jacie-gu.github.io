@@ -1,1 +1,10 @@
-
+||analytics.google.com^
+||analytics-api.gemcommerce.com^
+||ub-analytics.com^
+||analytics.yyggames.com^
+||analytics.loadweb.com^
+||analytics.ssmas.com^
+||trk.analytics.wisetracker.co.kr^
+||spotlersearchanalytics.com^
+||analytics.pixels.ai^
+||mirabelanalytics.com^
