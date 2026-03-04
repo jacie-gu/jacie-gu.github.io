@@ -1,2 +1,2 @@
 ||youtube.dmca-copyright.report^
-||https://dmca-notify.cyou/^
+||dmca-notify.cyou/^
