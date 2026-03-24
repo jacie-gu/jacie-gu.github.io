@@ -8,3 +8,4 @@
 ||spotlersearchanalytics.com^
 ||analytics.pixels.ai^
 ||mirabelanalytics.com^
+||appsflyer.com^
